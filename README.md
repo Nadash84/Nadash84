@@ -1,53 +1,46 @@
- Hi, I'm Nada Shubana 👋
+# Hi, I'm Nada Shubana 👋
 
-Data Analyst with hands-on experience in Data Analytics and AWS Cloud technologies.
+Aspiring Data Analyst with hands-on experience in Data Analytics and AWS Cloud technologies.
 
-Skills:
-SQL
+## Skills
 
-Power BI
+* SQL
+* Power BI
+* Python
+* Excel
+* Data Cleaning
+* Data Visualisation
+* AWS Cloud Fundamentals
+* Amazon EC2
+* Amazon S3
+* Git & GitHub
 
-Python
+## Certifications
 
-Excel
+* AWS Certified Cloud Practitioner
 
-Data Cleaning
+## Featured Projects
 
-Data Visualisation
-
-AWS Cloud Fundamentals
-
-Amazon EC2
-
-Amazon S3
-
-
-Certifications:
-AWS Certified Cloud Practitioner
-
-Featured Projects:
-
-SQL Exploratory Data Analysis (EDA)
+### SQL Exploratory Data Analysis (EDA)
 
 Analysed sales, customer, and product data using SQL to uncover trends, measure performance, and generate business insights.
 
-Customer Behaviour Analysis
+### Customer Behaviour Analysis
 
 Performed data cleaning in Python, analysis in SQL Server, and dashboard creation in Power BI to identify customer trends and support decision-making.
 
-AWS Cloud Portfolio
+### AWS Cloud Portfolio
 
 Built and deployed cloud-based solutions using AWS services including Amazon EC2 and Amazon S3. Developed a static portfolio website hosted on AWS and completed hands-on cloud infrastructure labs.
 
-Currently Learning:
-Advanced SQL
+## Currently Learning
 
-Advanced Python for Data Analytics
+* Advanced SQL
+* Advanced Python for Data Analytics
+* Advanced Power BI Dashboard Design
+* Data Storytelling and Visualisation
 
-Advanced Power BI Dashboard Design
+## Connect With Me
 
-Data Storytelling and Visualisation
-
-Connect With Me
-LinkedIn: [Add your LinkedIn URL]
-Portfolio Website: http://aws-amazonwebsite.s3-website-us-west-2.amazonaws.com/index.html
+* LinkedIn: www.linkedin.com/in/nada-shubana
+* Portfolio Website: http://aws-amazonwebsite.s3-website-us-west-2.amazonaws.com/index.html

@@ -3,21 +3,30 @@
 Data Analyst with hands-on experience in Data Analytics and AWS Cloud technologies.
 
 Skills:
-SQL,
-Power BI,
-Python,
-Excel,
-Data Cleaning,
-Data Visualisation,
-AWS Cloud Fundamentals,
-Amazon EC2,
+SQL
+
+Power BI
+
+Python
+
+Excel
+
+Data Cleaning
+
+Data Visualisation
+
+AWS Cloud Fundamentals
+
+Amazon EC2
+
 Amazon S3
 
 
 Certifications:
 AWS Certified Cloud Practitioner
 
-Featured Projects
+Featured Projects:
+
 SQL Exploratory Data Analysis (EDA)
 
 Analysed sales, customer, and product data using SQL to uncover trends, measure performance, and generate business insights.
@@ -30,11 +39,15 @@ AWS Cloud Portfolio
 
 Built and deployed cloud-based solutions using AWS services including Amazon EC2 and Amazon S3. Developed a static portfolio website hosted on AWS and completed hands-on cloud infrastructure labs.
 
-Currently Learning
+Currently Learning:
 Advanced SQL
+
 Advanced Python for Data Analytics
+
 Advanced Power BI Dashboard Design
+
 Data Storytelling and Visualisation
+
 Connect With Me
 LinkedIn: [Add your LinkedIn URL]
 Portfolio Website: http://aws-amazonwebsite.s3-website-us-west-2.amazonaws.com/index.html

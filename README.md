@@ -2,19 +2,21 @@
 
 Data Analyst with hands-on experience in Data Analytics and AWS Cloud technologies.
 
-Skills
-SQL
-Power BI
-Python
-Excel
-Data Cleaning
-Data Visualisation
-AWS Cloud Fundamentals
-Amazon EC2
+Skills:
+SQL,
+Power BI,
+Python,
+Excel,
+Data Cleaning,
+Data Visualisation,
+AWS Cloud Fundamentals,
+Amazon EC2,
 Amazon S3
-Git & GitHub
-Certifications
+
+
+Certifications:
 AWS Certified Cloud Practitioner
+
 Featured Projects
 SQL Exploratory Data Analysis (EDA)
 

@@ -38,7 +38,7 @@ Built and deployed cloud-based solutions using AWS services including Amazon EC2
 * Advanced SQL
 * Advanced Python for Data Analytics
 * Advanced Power BI Dashboard Design
-* Data Storytelling and Visualisation
+
 
 ## Connect With Me
 

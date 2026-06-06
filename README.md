@@ -1,6 +1,6 @@
 # Hi, I'm Nada Shubana 👋
 
-Aspiring Data Analyst with hands-on experience in Data Analytics and AWS Cloud technologies.
+Data Analyst with hands-on experience in Data Analytics and AWS Cloud technologies.
 
 ## Skills
 
